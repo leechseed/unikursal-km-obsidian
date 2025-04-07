@@ -195,7 +195,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Dashboard/Portal_Anthology.md",
+                "file": "09_Anthology/anth_Characterization_and_Mind_Representation_Framework.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -210,7 +210,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Portal_Anthology"
+              "title": "anth_Characterization_and_Mind_Representation_Framework"
             }
           },
           {
@@ -635,7 +635,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Dashboard/Portal_Anthology.md",
+                "file": "09_Anthology/anth_Characterization_and_Mind_Representation_Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -645,7 +645,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Portal_Anthology"
+              "title": "Backlinks for anth_Characterization_and_Mind_Representation_Framework"
             }
           },
           {
@@ -721,11 +721,13 @@
   },
   "active": "53c15943974f92ae",
   "lastOpenFiles": [
+    "01_Meta/0106_python_scripts/refactor_dn_tags.py",
+    "01_Meta/0106_python_scripts",
+    "00_Dashboard/Portal_Anthology.md",
     "09_Anthology/anth_Character_and_Conlfict_Model.md",
     "09_Anthology/anth_Characterization_and_Mind_Representation_Framework.md",
     "09_Anthology/anth_Characterization_Framework.md",
     "09_Anthology/anth_Intro_to_Structural_Analysis.md.md",
-    "00_Dashboard/Portal_Anthology.md",
     "00_Dashboard/Portal_DesignNarratology.md.md",
     "00_Dashboard/Home.md.md",
     "09_Anthology/anth_Flat_and_Round_Character_Model.md",
@@ -746,7 +748,6 @@
     "02_Templates/Theory_Note_Template.md.md",
     "02_Templates/Encyclopedia_Entry_Template.md.md",
     "02_Templates/Pattern_Template.md.md",
-    "02_Templates/Note_Template.md.md",
     "01_Meta/0105_Queries",
     "01_Meta/0104_Workflows",
     "01_Meta/0103_Structure",
@@ -755,7 +756,6 @@
     "10_Encyclopedia",
     "09_Anthology",
     "08_Patterns",
-    "07_DesignNarratology",
-    "06_OperatonsArchitecture/0602_ProductionTheory"
+    "07_DesignNarratology"
   ]
 }
