@@ -94,30 +94,6 @@
             }
           },
           {
-            "id": "e2f474e076422efd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09_Anthology/Work_Intro_to_Structural_Analysis.md.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Work_Intro_to_Structural_Analysis.md"
-            }
-          },
-          {
             "id": "d872484fef645ba4",
             "type": "leaf",
             "state": {
@@ -219,7 +195,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Meta/0102_Standards/Metadata_Schema.md.md",
+                "file": "00_Dashboard/Portal_Anthology.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -234,7 +210,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Metadata_Schema.md"
+              "title": "Portal_Anthology"
             }
           },
           {
@@ -586,7 +562,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -659,7 +635,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Meta/0102_Standards/Metadata_Schema.md.md",
+                "file": "00_Dashboard/Portal_Anthology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -669,7 +645,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Metadata_Schema.md"
+              "title": "Backlinks for Portal_Anthology"
             }
           },
           {
@@ -745,9 +721,14 @@
   },
   "active": "53c15943974f92ae",
   "lastOpenFiles": [
-    "02_Templates/Book_Summary_Template.md.md",
-    "01_Meta/0102_Standards/Metadata_Schema.md.md",
+    "09_Anthology/anth_Intro_to_Structural_Analysis.md.md",
+    "00_Dashboard/Portal_Anthology.md",
+    "00_Dashboard/Portal_DesignNarratology.md.md",
     "00_Dashboard/Home.md.md",
+    "09_Anthology/anth_Flat_and_Round_Character_Model.md",
+    "09_Anthology/anth_Narrative_Agent_Framework.md",
+    "01_Meta/0102_Standards/Metadata_Schema.md.md",
+    "02_Templates/Book_Summary_Template.md.md",
     "00_Dashboard/Portal_Encyclopedia.md",
     "01_Meta/Meta_Index.md.md",
     "06_OperatonsArchitecture/0602_ProductionTheory/Stages.md.md",
@@ -756,7 +737,6 @@
     "08_Patterns/Pattern_Symbolic_Twin.md.md",
     "09_Anthology/Work_Intro_to_Structural_Analysis.md.md",
     "10_Encyclopedia/Entry_Semionics.md.md",
-    "00_Dashboard/Portal_DesignNarratology.md.md",
     "00_Dashboard/Portal_Encyclopedia.md.md",
     "02_Templates/Log_Entry_Template.md.md",
     "02_Templates/Portal_Template.md.md",
@@ -767,10 +747,6 @@
     "01_Meta/0104_Workflows/Capture_to_Knowledge_Pipeline.md.md",
     "01_Meta/0104_Workflows/Note_Status_Lifecycle.md.md",
     "01_Meta/0102_Standards/Naming_Conventions.md.md",
-    "01_Meta/0101_Setup/Git_Backup_Config.md.md",
-    "01_Meta/0101_Setup/Obsidian_Plugin_Config.md.md",
-    "01_Meta/PKM_Design_Principles.md.md",
-    "01_Meta/Layer_Architecture.md.md",
     "01_Meta/0105_Queries",
     "01_Meta/0104_Workflows",
     "01_Meta/0103_Structure",
