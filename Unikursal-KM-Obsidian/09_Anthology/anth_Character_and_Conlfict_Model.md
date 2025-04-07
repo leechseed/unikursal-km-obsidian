@@ -1,23 +1,36 @@
 ---
-title: "McKee's Character and Conflict Model"
-author: "Robert McKee"
-UID: "20241206-006"
+title: McKee's Character and Conflict Model
+author: Robert McKee
+UID: 20241206-006
 date_read: "2024-12-06"
-summary_status: "complete"
-category: "summary"
-domain: "Anthology"
-genre: ["Narratology", "Screenwriting", "Characterization"]
-tags: ["anthology", "book-summary"]
-dn_tags: ["Function::Character", "Function::Conflict"]
+summary_status: complete
+category: summary
+domain: Anthology
+genre:
+  - Narratology
+  - Screenwriting
+  - Characterization
+tags:
+  - anthology
+  - book-summary
 related_works:
   - "Story: Substance, Structure, Style and the Principles of Screenwriting"
 isbn10: "9780060391683"
-notes_status: "annotated"
+notes_status: annotated
 personal_rating: 8
 grade_level: 1
 knowledge_type: tacit
-Summary: "McKee’s Character and Conflict Model emphasizes how characters are defined by the conflicts they face and create, illustrating how narrative tension and personal stakes are fundamental to strong characterization and story structure."
-REASON: "Emphasizes character formation and the conflicts they drive, central to characterization and narrative engagement."
+Summary:
+  "McKee\u2019s Character and Conflict Model emphasizes how characters are\
+  \ defined by the conflicts they face and create, illustrating how narrative tension\
+  \ and personal stakes are fundamental to strong characterization and story structure."
+REASON:
+  Emphasizes character formation and the conflicts they drive, central to characterization
+  and narrative engagement.
+function:
+  - Character
+  - Conflict
+guts99_stage: Model
 ---
 
 - [**1. Title: McKee's Character and Conflict Model**](#1-title-mckees-character-and-conflict-model)

@@ -1,21 +1,35 @@
 ---
-title: "Flat and Round Character Model"
-author: "E.M. Forster"
-UID: "20240827-002"
+title: Flat and Round Character Model
+author: E.M. Forster
+UID: 20240827-002
 date_read: "2024-08-27"
-summary_status: "complete"
-category: "summary"
-domain: "Anthology"
-genre: ["Narratology", "Characterization"]
-tags: ["anthology", "book-summary"]
-dn_tags: ["Function::Character", "Dimension::Depth"]
+summary_status: complete
+category: summary
+domain: Anthology
+genre:
+  - Narratology
+  - Characterization
+tags:
+  - anthology
+  - book-summary
 related_works: []
-notes_status: "annotated"
+notes_status: annotated
 personal_rating: 8
 grade_level: 1
 knowledge_type: explicit
-Summary: "E.M. Forster's *Flat and Round Characters* model distinguishes between flat characters, who are simple and unchanging, and round characters, who are complex and capable of growth. This distinction helps analyze character development in narratives and remains a foundational concept in literary studies."
-REASON: "Forster's model classifies characters based on their depth and complexity, fitting within 'Characterization'."
+Summary:
+  E.M. Forster's *Flat and Round Characters* model distinguishes between flat
+  characters, who are simple and unchanging, and round characters, who are complex
+  and capable of growth. This distinction helps analyze character development in narratives
+  and remains a foundational concept in literary studies.
+REASON:
+  Forster's model classifies characters based on their depth and complexity,
+  fitting within 'Characterization'.
+function:
+  - Character
+dimension:
+  - Depth
+guts99_stage: Model
 ---
 
 - [1. **Title: Forster's Flat and Round Characters Model**](#1-title-forsters-flat-and-round-characters-model)

@@ -43,7 +43,7 @@ def refactor_yaml_block(content):
     return new_content, True
 
 def process_directory(directory_path):
-    md_files = Path(C:\Users\U01_LEECHSEED\Projekts\unikursal-km-obsidian\Unikursal-KM-Obsidian\09_Anthology).rglob("*.md")
+    md_files = Path(directory_path).rglob("*.md")
     updated_count = 0
 
     for file_path in md_files:
@@ -61,5 +61,5 @@ def process_directory(directory_path):
     print(f"\n✔️ Finished. {updated_count} file(s) updated.")
 
 if __name__ == "__main__":
-    folder = input("Enter path to your Obsidian folder (e.g., 09_Anthology): ").strip()
+    folder = "C:/Users/U01_LEECHSEED/Projekts/unikursal-km-obsidian/Unikursal-KM-Obsidian/09_Anthology"
     process_directory(folder)

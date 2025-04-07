@@ -721,6 +721,7 @@
   },
   "active": "53c15943974f92ae",
   "lastOpenFiles": [
+    "01_Meta/0103_Structure/guts99_lifecycle.md",
     "01_Meta/0106_python_scripts/refactor_dn_tags.py",
     "01_Meta/0106_python_scripts",
     "00_Dashboard/Portal_Anthology.md",
@@ -755,7 +756,6 @@
     "01_Meta/0101_Setup",
     "10_Encyclopedia",
     "09_Anthology",
-    "08_Patterns",
-    "07_DesignNarratology"
+    "08_Patterns"
   ]
 }

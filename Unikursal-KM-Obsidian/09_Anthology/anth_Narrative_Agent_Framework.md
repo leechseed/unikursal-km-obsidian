@@ -1,27 +1,35 @@
 ---
-title: "Narrative Agents Framework"
-author: "Mieke Bal"
-UID: "20240827-001"
+title: Narrative Agents Framework
+author: Mieke Bal
+UID: 20240827-001
 date_read: "2024-08-27"
-summary_status: "complete"
-category: "summary"
-domain: "Anthology"
-genre: ["Narratology", "Characterization"]
-tags: ["anthology", "book-summary"]
-dn_tags:
-  [
-    "Function::Narrator",
-    "Function::Focalizer",
-    "Function::Actor",
-    "Dimension::Perspective",
-  ]
+summary_status: complete
+category: summary
+domain: Anthology
+genre:
+  - Narratology
+  - Characterization
+tags:
+  - anthology
+  - book-summary
 related_works: []
-notes_status: "annotated"
+notes_status: annotated
 personal_rating: 9
 grade_level: 1
 knowledge_type: explicit
-Summary: "Narrative agents are the key participants in the construction and delivery of a narrative: narrator, focalizer, actor."
-REASON: "Bal's Narrative Agents Framework focuses on the development and portrayal of characters as narrative agents, fitting within the 'Characterization' category."
+Summary:
+  "Narrative agents are the key participants in the construction and delivery
+  of a narrative: narrator, focalizer, actor."
+REASON:
+  Bal's Narrative Agents Framework focuses on the development and portrayal
+  of characters as narrative agents, fitting within the 'Characterization' category.
+function:
+  - Actor
+  - Focalizer
+  - Narrator
+dimension:
+  - Perspective
+guts99_stage: Model
 ---
 
 - [1. **Title: Bal's Narrative Agents Framework**](#1-title-bals-narrative-agents-framework)

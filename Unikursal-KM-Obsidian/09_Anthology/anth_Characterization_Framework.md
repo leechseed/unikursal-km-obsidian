@@ -1,21 +1,34 @@
 ---
-title: "Characterization Framework"
-author: "Shlomith Rimmon-Kenan"
-UID: "20240827-003"
+title: Characterization Framework
+author: Shlomith Rimmon-Kenan
+UID: 20240827-003
 date_read: "2024-08-27"
-summary_status: "complete"
-category: "summary"
-domain: "Anthology"
-genre: ["Narratology", "Characterization"]
-tags: ["anthology", "book-summary"]
-dn_tags: ["Function::Character", "Dimension::Bias", "Dimension::Focalization"]
+summary_status: complete
+category: summary
+domain: Anthology
+genre:
+  - Narratology
+  - Characterization
+tags:
+  - anthology
+  - book-summary
 related_works: []
-notes_status: "annotated"
+notes_status: annotated
 personal_rating: 8
 grade_level: 1
 knowledge_type: tacit
-Summary: "Shlomith Rimmon-Kenan's characterization framework explores how authors use direct and indirect methods to shape readers' perceptions of characters. It examines explicit descriptions, actions, and narrative voice, revealing how focalization and bias influence character construction and interpretation."
-REASON: "Focuses on character development and portrayal, aligning with 'Characterization'."
+Summary:
+  Shlomith Rimmon-Kenan's characterization framework explores how authors use
+  direct and indirect methods to shape readers' perceptions of characters. It examines
+  explicit descriptions, actions, and narrative voice, revealing how focalization
+  and bias influence character construction and interpretation.
+REASON: Focuses on character development and portrayal, aligning with 'Characterization'.
+function:
+  - Character
+dimension:
+  - Bias
+  - Focalization
+guts99_stage: Model
 ---
 
 - [1. **Title: Rimmon-Kenan's Characterization Framework**](#1-title-rimmon-kenans-characterization-framework)

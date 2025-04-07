@@ -1,26 +1,37 @@
 ---
-title: "Characterization and Mind Representation Framework"
-author: "David Herman"
-UID: "20240827-006"
+title: Characterization and Mind Representation Framework
+author: David Herman
+UID: 20240827-006
 date_read: "2024-08-27"
-summary_status: "complete"
-category: "summary"
-domain: "Anthology"
-genre: ["Narratology", "Characterization"]
-tags: ["anthology", "book-summary"]
-dn_tags:
-  [
-    "Function::Character",
-    "Dimension::Mind",
-    "Technique::Stream of Consciousness",
-  ]
+summary_status: complete
+category: summary
+domain: Anthology
+genre:
+  - Narratology
+  - Characterization
+tags:
+  - anthology
+  - book-summary
 related_works: []
-notes_status: "annotated"
+notes_status: annotated
 personal_rating: 8
 grade_level: 1
 knowledge_type: tacit
-Summary: "David Herman’s *Characterization and Mind Representation Framework* explores how narratives depict characters' mental states, emotions, and motivations through techniques like interior monologue and stream of consciousness, offering insights into character complexity and reader empathy."
-REASON: "Focuses on character development and psychological representation, aligning with 'Characterization'."
+Summary:
+  "David Herman\u2019s *Characterization and Mind Representation Framework*\
+  \ explores how narratives depict characters' mental states, emotions, and motivations\
+  \ through techniques like interior monologue and stream of consciousness, offering\
+  \ insights into character complexity and reader empathy."
+REASON:
+  Focuses on character development and psychological representation, aligning
+  with 'Characterization'.
+function:
+  - Character
+dimension:
+  - Mind
+technique:
+  - Stream of Consciousness
+guts99_stage: Model
 ---
 
 - [1. **Title: Herman's Characterization and Mind Representation Framework**](#1-title-hermans-characterization-and-mind-representation-framework)
