@@ -219,7 +219,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Dashboard/Home.md.md",
+                "file": "01_Meta/0102_Standards/Metadata_Schema.md.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -234,7 +234,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home.md"
+              "title": "Metadata_Schema.md"
             }
           },
           {
@@ -587,33 +587,6 @@
           }
         ],
         "currentTab": 9
-      },
-      {
-        "id": "f9fd42e37212cdb3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b00be6836b99b48e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "e43242557569e4e0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -686,7 +659,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Dashboard/Home.md.md",
+                "file": "01_Meta/0102_Standards/Metadata_Schema.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -696,7 +669,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home.md"
+              "title": "Backlinks for Metadata_Schema.md"
             }
           },
           {
@@ -772,8 +745,10 @@
   },
   "active": "53c15943974f92ae",
   "lastOpenFiles": [
-    "00_Dashboard/Portal_Encyclopedia.md",
+    "02_Templates/Book_Summary_Template.md.md",
+    "01_Meta/0102_Standards/Metadata_Schema.md.md",
     "00_Dashboard/Home.md.md",
+    "00_Dashboard/Portal_Encyclopedia.md",
     "01_Meta/Meta_Index.md.md",
     "06_OperatonsArchitecture/0602_ProductionTheory/Stages.md.md",
     "06_OperatonsArchitecture/0601_DevelopmentTheory/Framework.md.md",
@@ -787,12 +762,10 @@
     "02_Templates/Portal_Template.md.md",
     "02_Templates/Theory_Note_Template.md.md",
     "02_Templates/Encyclopedia_Entry_Template.md.md",
-    "02_Templates/Book_Summary_Template.md.md",
     "02_Templates/Pattern_Template.md.md",
     "02_Templates/Note_Template.md.md",
     "01_Meta/0104_Workflows/Capture_to_Knowledge_Pipeline.md.md",
     "01_Meta/0104_Workflows/Note_Status_Lifecycle.md.md",
-    "01_Meta/0102_Standards/Metadata_Schema.md.md",
     "01_Meta/0102_Standards/Naming_Conventions.md.md",
     "01_Meta/0101_Setup/Git_Backup_Config.md.md",
     "01_Meta/0101_Setup/Obsidian_Plugin_Config.md.md",
