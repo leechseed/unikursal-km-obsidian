@@ -8,7 +8,8 @@ All entries must follow the `anth_` filename format and include a `title` field 
 ## 🧠 By Title
 
 ```dataview
-table title, author, date_read, grade_level, knowledge_type, file.name as "File"
+table without id "[" + "link" + "](" + file.path + ")" as "↗︎", title, author, date_read, grade_level, knowledge_type
 from "09_Anthology"
-where startswith(file
+where startswith(file.name, "anth_")
+sort title asc
 ```
